@@ -2,6 +2,7 @@
 
 ***
 
+
 ## Task
 This project involves implementing a linear regression model to analyze the relationship between two variables. The challenge is to compute the best-fit line by optimizing the model parameters using both closed-form solutions and gradient descent.
 
